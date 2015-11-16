@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deepak Nettem</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Deepak Nettem</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Nov 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>C&#43;&#43; Curiously Recurring Template Pattern</title>
+      <link>http://localhost:1313/blog/2015/11/15/c-curiously-recurring-template-pattern/</link>
+      <pubDate>Sun, 15 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2015/11/15/c-curiously-recurring-template-pattern/</guid>
+      <description>&lt;p&gt;C++ is an extremely difficult language to master, because there are so many idioms, design patterns, and language features that I still feel quite scared about how little I know about the language. Recently, I came across this term called &amp;lsquo;Curiosly Recurring Template Pattern&amp;rsquo;, and realized that I had actually seen this pattern several times in code but just didn&amp;rsquo;t know that it was called so.&lt;/p&gt;
+
+&lt;p&gt;Let&amp;rsquo;s look at the general pattern first, and then I will introduce you to two specific uses that I have come across most frequently in production code.&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;highlight&#34; style=&#34;background: #272822&#34;&gt;&lt;pre style=&#34;line-height: 125%&#34;&gt;&lt;span style=&#34;color: #f92672&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span style=&#34;color: #f8f8f2&#34;&gt;p&lt;/span&gt;&lt;span style=&#34;color: #f92672&#34;&gt;&amp;gt;&lt;/span&gt;&lt;span style=&#34;color: #66d9ef&#34;&gt;template&lt;/span&gt; &lt;span style=&#34;color: #f92672&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span style=&#34;color: #66d9ef&#34;&gt;typename&lt;/span&gt; &lt;span style=&#34;color: #f8f8f2&#34;&gt;T&lt;/span&gt;&lt;span style=&#34;color: #f92672&#34;&gt;&amp;gt;&lt;/span&gt;
+&lt;span style=&#34;color: #66d9ef&#34;&gt;struct&lt;/span&gt; &lt;span style=&#34;color: #f8f8f2&#34;&gt;Functionality&lt;/span&gt;
+&lt;span style=&#34;color: #f8f8f2&#34;&gt;{&lt;/span&gt;
+    &lt;span style=&#34;color: #f8f8f2&#34;&gt;T&lt;/span&gt; &lt;span style=&#34;color: #f8f8f2&#34;&gt;_foo;&lt;/span&gt;
+&lt;span style=&#34;color: #f8f8f2&#34;&gt;};&lt;/span&gt;&lt;span style=&#34;color: #f92672&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span style=&#34;color: #f8f8f2&#34;&gt;p&lt;/span&gt;&lt;span style=&#34;color: #f92672&#34;&gt;&amp;gt;&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/page/about/</link>
+      <pubDate>Mon, 26 Oct 2015 21:55:06 -0700</pubDate>
+      
+      <guid>http://localhost:1313/page/about/</guid>
+      <description>&lt;p&gt;I am Deepak Nettem, deepaknettem@gmail.com&lt;/p&gt;
+
+&lt;p&gt;I am a Software Developer at Microsoft Research, Redmond WA.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>license</title>
+      <link>http://localhost:1313/page/license/</link>
+      <pubDate>Mon, 26 Oct 2015 21:55:06 -0700</pubDate>
+      
+      <guid>http://localhost:1313/page/license/</guid>
+      <description>&lt;p&gt;I am Deepak Nettem, deepaknettem@gmail.com&lt;/p&gt;
+
+&lt;p&gt;I am a Software Developer at Microsoft Research, Redmond WA.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>resume</title>
+      <link>http://localhost:1313/page/resume/</link>
+      <pubDate>Mon, 26 Oct 2015 21:55:06 -0700</pubDate>
+      
+      <guid>http://localhost:1313/page/resume/</guid>
+      <description>&lt;p&gt;I am Deepak Nettem, deepaknettem@gmail.com&lt;/p&gt;
+
+&lt;p&gt;I am a Software Developer at Microsoft Research, Redmond WA.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Neural Networks Backpropagation: The back story</title>
+      <link>http://localhost:1313/blog/2015/10/26/neural-networks-backpropagation-the-back-story/</link>
+      <pubDate>Mon, 26 Oct 2015 21:20:13 -0700</pubDate>
+      
+      <guid>http://localhost:1313/blog/2015/10/26/neural-networks-backpropagation-the-back-story/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve been learning about Artificial Neural Networks, and recently watched &lt;a href=&#34;https://youtu.be/q0pm3BrIUFo&#34;&gt;this lecture&lt;/a&gt; after which I got a great intuition behind why backpropagation is used, and how it works. The key idea here is Mathematical Convenience.&lt;/p&gt;
+
+&lt;p&gt;The key idea is to&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

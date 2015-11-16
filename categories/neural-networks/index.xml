@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Neural Networks on Deepak Nettem</title>
+    <link>http://localhost:1313/categories/neural-networks/</link>
+    <description>Recent content in Neural Networks on Deepak Nettem</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 26 Oct 2015 21:20:13 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/neural-networks/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Neural Networks Backpropagation: The back story</title>
+      <link>http://localhost:1313/blog/2015/10/26/neural-networks-backpropagation-the-back-story/</link>
+      <pubDate>Mon, 26 Oct 2015 21:20:13 -0700</pubDate>
+      
+      <guid>http://localhost:1313/blog/2015/10/26/neural-networks-backpropagation-the-back-story/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve been learning about Artificial Neural Networks, and recently watched &lt;a href=&#34;https://youtu.be/q0pm3BrIUFo&#34;&gt;this lecture&lt;/a&gt; after which I got a great intuition behind why backpropagation is used, and how it works. The key idea here is Mathematical Convenience.&lt;/p&gt;
+
+&lt;p&gt;The key idea is to&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

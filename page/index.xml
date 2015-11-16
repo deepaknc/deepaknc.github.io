@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Deepak Nettem</title>
+    <link>http://localhost:1313/page/</link>
+    <description>Recent content in Pages on Deepak Nettem</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 26 Oct 2015 21:55:06 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/page/about/</link>
+      <pubDate>Mon, 26 Oct 2015 21:55:06 -0700</pubDate>
+      
+      <guid>http://localhost:1313/page/about/</guid>
+      <description>&lt;p&gt;I am Deepak Nettem, deepaknettem@gmail.com&lt;/p&gt;
+
+&lt;p&gt;I am a Software Developer at Microsoft Research, Redmond WA.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>license</title>
+      <link>http://localhost:1313/page/license/</link>
+      <pubDate>Mon, 26 Oct 2015 21:55:06 -0700</pubDate>
+      
+      <guid>http://localhost:1313/page/license/</guid>
+      <description>&lt;p&gt;I am Deepak Nettem, deepaknettem@gmail.com&lt;/p&gt;
+
+&lt;p&gt;I am a Software Developer at Microsoft Research, Redmond WA.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>resume</title>
+      <link>http://localhost:1313/page/resume/</link>
+      <pubDate>Mon, 26 Oct 2015 21:55:06 -0700</pubDate>
+      
+      <guid>http://localhost:1313/page/resume/</guid>
+      <description>&lt;p&gt;I am Deepak Nettem, deepaknettem@gmail.com&lt;/p&gt;
+
+&lt;p&gt;I am a Software Developer at Microsoft Research, Redmond WA.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
